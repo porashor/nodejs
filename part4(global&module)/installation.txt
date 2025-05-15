@@ -1,1 +1,1 @@
-npm alternative is yarn 
+window of normal javascript is defined as global in node js
