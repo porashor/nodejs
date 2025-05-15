@@ -1,0 +1,5 @@
+node js how, what and why?
+engine(v8,chakra, mankipong)-->runtime(nodejs)
+what is node js 
+node js is a runtime which is powered by google corme v8 engine 
+node js is not good for cpu intensive task it's good for i/o intensive task 
