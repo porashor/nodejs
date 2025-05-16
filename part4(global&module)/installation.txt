@@ -1,1 +1,6 @@
+
+defferences ...
+
 window of normal javascript is defined as global in node js
+when we declair any var in normal js project the we found it on window._name 
+but node js has not this feature available 
