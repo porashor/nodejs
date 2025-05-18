@@ -1,2 +1,6 @@
-modules
-path: 
+modules(always try to do async way)
+path: to check the path details follow the w3 school
+os: to check all about os 
+fs: file read write etc. 
+events: should try and try work hard for this 
+http: to create the server and controll the network
