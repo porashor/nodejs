@@ -1,0 +1,5 @@
+node mong needed to restart the server 
+npm install -g nodemon
+
+then command 
+node index || nodemon index
